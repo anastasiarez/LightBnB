@@ -17,4 +17,5 @@ INSERT INTO property_reviews (guest_id, property_id, reservation_id, rating, mes
 VALUES (1, 1, 4, 5, 'I loved this place, it was close to everything.'),
 (2, 2, 5, 4, 'Nice place, close to everything.'),
 (3, 3, 6, 3, 'I did not like this place.  Too far from everything.');
-```
+
+
